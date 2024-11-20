@@ -49,7 +49,7 @@
     "ramda": "^0.27.1",
     "re-reselect": "^4.0.0",
     "react": "16.13.1",
-    "react-native": "0.63.4",
+    "react-native": "0.76.2",
     "react-native-android-location-enabler": "^1.2.2",
     "react-native-appearance": "^0.3.4",
     "react-native-background-timer": "^2.4.1",
